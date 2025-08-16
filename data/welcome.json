@@ -1,0 +1,50 @@
+{
+  "1280693892752211999": {
+    "welcome_enabled": false,
+    "welcome_channel": null,
+    "welcome_message": "Welcome to {server}, {user}! \ud83c\udf89",
+    "welcome_embed": true,
+    "auto_role_enabled": false,
+    "auto_roles": [],
+    "leave_enabled": false,
+    "leave_channel": null,
+    "leave_message": "{user} has left {server}. Goodbye! \ud83d\udc4b",
+    "leave_embed": true,
+    "dm_welcome": false,
+    "dm_message": "Welcome to {server}! We hope you enjoy your stay."
+  },
+  "1405083393011617874": {
+    "welcome_enabled": true,
+    "welcome_channel": 1405083393011617876,
+    "welcome_message": "{emoji:pinkbx}{emoji:blugheart} \u3018 \ud835\uddea\ud835\uddd8\ud835\udddf\ud835\uddd6\ud835\udde2\ud835\udde0\ud835\uddd8 \ud835\udde7\ud835\udde2 \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \u3019 {emoji:pinkbx:}\n\n{emoji:pinkbx:}{emoji :dragonn:} \u3018 \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \ud835\udddc\ud835\udde1\ud835\uddd9\ud835\udde2\ud835\udde5\ud835\udde0\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde2\ud835\udde1 \u3019 {emoji:dragonn:}{emoji::pinkbx:}\n{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}\n\n{emoji:Tick} \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \ud835\udde1\ud835\uddd4\ud835\udde0\ud835\uddd8 {emoji:Yelloarrow:} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\n{emoji:Tick:} \ud835\udde8\ud835\udde6\ud835\uddd8\ud835\udde5 \ud835\udddd\ud835\udde2\ud835\udddc\ud835\udde1 {emoji:Yelloarrow:} \ud83c\udf37\n{emoji:Tick:} \ud835\udde3\ud835\udddf\ud835\uddd8\ud835\uddd4\ud835\udde6\ud835\uddd8  {emoji:Yelloarrow:}\n\n{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}\n\n\n{emoji:boring:}\u3002\u309c \ua730\u1d0f\u029f\u029f\u1d0f\u1d21 \u1d1b\u029c\u026a\ua731 \u0280\u1d1c\u029f\u1d07\ua731 \u3002\u309c {emoji:boring:}\n{emoji:dragonn:} \u1d1b\u1d00\u1d0b\u1d07 \u028f\u1d0f\u1d1c\u0280 \u0280\u1d0f\u029f\u1d07\ua731 {emoji:logo:} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\u30fbhttps://discord.com/channels/1404734005378678844/1404734007286960174 {emoji:Twinkle}\n{emoji:dragonn:} \u1d04\u029c\u1d00\u1d1b \u1d22\u1d0f\u0274\u1d07 \u029c\u1d07\u0280\u1d07 {emoji:logo:} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\u2060\u2763\ufe0f\u30fbhttps://discord.com/channels/1404734005378678844/1404734007643607078 {emoji:Twinkle}",
+    "welcome_embed": false,
+    "auto_role_enabled": true,
+    "auto_roles": [
+      1405083547307343956
+    ],
+    "leave_enabled": false,
+    "leave_channel": null,
+    "leave_message": "{user} has left {server}. Goodbye! \ud83d\udc4b",
+    "leave_embed": true,
+    "dm_welcome": true,
+    "dm_message": "Welcome to {server}! We hope you enjoy your stay.",
+    "welcome_gif": "https://cdn.discordapp.com/attachments/995591413360234576/1002518765931593748/km_20220729-1_240p.gif?ex=689d0d9b&is=689bbc1b&hm=216935ac008d3bb3bea95e0119ee95f751e25146f916329085d505974d0dcd2a&"
+  },
+  "1404734005378678844": {
+    "welcome_enabled": true,
+    "welcome_channel": 1404734007286960170,
+    "welcome_message": "{emoji:pinkbx}{emoji:blugheart} \u3018 \ud835\uddea\ud835\uddd8\ud835\udddf\ud835\uddd6\ud835\udde2\ud835\udde0\ud835\uddd8 \ud835\udde7\ud835\udde2 \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \u3019 {emoji:pinkbx}\n\n{emoji:pinkbx}{emoji:dragonn} \u3018 \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \ud835\udddc\ud835\udde1\ud835\uddd9\ud835\udde2\ud835\udde5\ud835\udde0\ud835\uddd4\ud835\udde7\ud835\udddc\ud835\udde2\ud835\udde1 \u3019 {emoji:dragonn}{emoji:pinkbx}\n{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}\n\n{emoji:Tick} \ud835\udde6\ud835\uddd8\ud835\udde5\ud835\udde9\ud835\uddd8\ud835\udde5 \ud835\udde1\ud835\uddd4\ud835\udde0\ud835\uddd8 {emoji:Yelloarrow} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\n{emoji:Tick} \ud835\udde8\ud835\udde6\ud835\uddd8\ud835\udde5 \ud835\udddd\ud835\udde2\ud835\udddc\ud835\udde1 {emoji:Yelloarrow} \ud83c\udf37 {user}\n{emoji:Tick} \ud835\udde3\ud835\udddf\ud835\uddd8\ud835\uddd4\ud835\udde6\ud835\uddd8  {emoji:Yelloarrow}\n\n{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}{emoji:divider1}\n\n\n{emoji:boring}\u3002\u309c \ua730\u1d0f\u029f\u029f\u1d0f\u1d21 \u1d1b\u029c\u026a\ua731 \u0280\u1d1c\u029f\u1d07\ua731 \u3002\u309c {emoji:boring}\n{emoji:dragonn} \u1d1b\u1d00\u1d0b\u1d07 \u028f\u1d0f\u1d1c\u0280 \u0280\u1d0f\u029f\u1d07\ua731 {emoji:logo} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\u30fbhttps://discord.com/channels/1404734005378678844/1404734007286960174 {emoji:Twinkle}\n{emoji:dragonn} \u1d04\u029c\u1d00\u1d1b \u1d22\u1d0f\u0274\u1d07 \u029c\u1d07\u0280\u1d07 {emoji:logo} \ud835\udde9\ud835\uddd4\ud835\udde1\ud835\udde7\ud835\udddb\ud835\uddd4 \ud835\udde3\ud835\uddd8\ud835\udde6\ud835\udde8\ud835\udde9\ud835\udde2\ud835\udde0\u2060\u2763\ufe0f\u30fbhttps://discord.com/channels/1404734005378678844/1404734007643607078 {emoji:Twinkle}",
+    "welcome_embed": true,
+    "welcome_gif": "https://media.discordapp.net/attachments/995591413360234576/1002518765931593748/km_20220729-1_240p.gif?ex=68a0595b&is=689f07db&hm=f5db05b3af3cfd1611b9683fa7b69f65d6afc48c49797f454dfec511648e53bd&=",
+    "auto_role_enabled": false,
+    "auto_roles": [
+      1404734005827473502
+    ],
+    "leave_enabled": false,
+    "leave_channel": null,
+    "leave_message": "{user} has left {server}. Goodbye! \ud83d\udc4b",
+    "leave_embed": true,
+    "dm_welcome": true,
+    "dm_message": "Welcome to {server}! We hope you enjoy your stay."
+  }
+}
